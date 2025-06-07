@@ -1,5 +1,7 @@
 # 🔢 Basic Calculator
 
+### Deployed Link :-  https://subhasmita07sahoo.github.io/Basic_Calculator/
+
 A fully functional web-based calculator built using **HTML**, **CSS**, and **JavaScript**.  
 It supports basic arithmetic operations, keyboard inputs, square root functionality, and memory operations like M+, M-, MR, and MC.
 
